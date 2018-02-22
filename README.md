@@ -1,13 +1,13 @@
 # About this repository
 # Best practices  
-## Make it readable.   
+## Make it readable.  [SOURCE](https://www.belatrixsf.com/blog/best-practices-for-front-end-coding/)  
 In this way your CSS will be much easier to maintain in the future, and also you´ll be able to find elements in a heartbeat.  
-## Use multiple stylesheets, but be aware of them expanding beyond control.   
+## Use multiple stylesheets, but be aware of them expanding beyond control.  [SOURCE](https://www.belatrixsf.com/blog/best-practices-for-front-end-coding/)  
 Depending on the complexity of the design and the size of the site, sometimes it’s easier to make smaller, multiple stylesheets instead of a giant one. If you cross the line and end up having too many stylesheets it might be hard to follow and find where some styles are.
-## Test WHILE you build to avoid cross-browser issues  
+## Test WHILE you build to avoid cross-browser issues [SOURCE](https://www.belatrixsf.com/blog/best-practices-for-front-end-coding/)  
 One of the biggest mistake I ever made when developing html, CSS, and javascript, was not to test my pages on multiple browser while I was writing them. Instead, I used to write all my code and just view in Firefox to see how it was rendered.
 In theory, this should be good. But as you know, cross-browser issues are a major problem for front-end developers, especially due to IE. If you test your documents on Firefox/IE/Chrome while your writing it, cross-browser rendering problems will be much easier to fix. I have lost hours not doing it, so I hope this final tip will help you saving your precious time. To test on multiple versions of IE, I use this very handy tool. Happy coding.  
-## Commenting
+## Commenting [SOURCE](https://github.com/cxpartners/coding-standards)  
 Explain design or architectural decisions that cannot be conveyed in code alone by adding comments to your code.
 
 Be sure that in conjunction with writing code that adheres to these guidelines, someone can pick up your code and immediately understand it.
