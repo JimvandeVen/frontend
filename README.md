@@ -22,6 +22,7 @@ Be verbose with your comments but ensure:
 
 * You focus on why rather than how - unless your code is too complex, it should be self documenting
 
-Don't leave commented out chunks of code in the codebase. It makes the code look unfinished, and can be confusing for other developers.
+Don't leave commented out chunks of code in the codebase. It makes the code look unfinished, and can be confusing for other developers.  
+## Test performence on slow and midtier internet connections.
 # Image Gallery
 # Async API Data
